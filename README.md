@@ -3,6 +3,10 @@
 # Canva Clone
 
 ```js
+npm run dev
+```
+
+```js
 npx convex dev
 ```
 

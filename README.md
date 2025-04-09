@@ -14,3 +14,7 @@ npx convex dev
 - npx shadcn@latest init
 - npm install convex
 - npm i fabric
+
+## Learning Context:-
+
+- Convex DB init & table creation

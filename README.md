@@ -17,4 +17,5 @@ npx convex dev
 
 ## Learning Context:-
 
+- Project setup
 - Convex DB init & table creation
